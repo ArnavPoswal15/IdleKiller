@@ -8,12 +8,12 @@ Works on **Windows** (PowerShell) and **macOS** (AppleScript).
 
 ## 📦 Versions
 
-| Version | Movement | AI Detection Risk | Speed | Recommended |
-|---------|----------|-------------------|-------|-------------|
-| **V1** | Straight line | High | Original speed | ❌ |
-| **V2** | Curved/organic | **Low** | Original speed | ✅ |
+| Version | Movement | AI Detection Risk | Speed |
+|---------|----------|-------------------|-------|
+| **V1** | Straight line | High | Original speed |
+| **V2** | Curved/organic | **Low** | Original speed |
 
-**V2 is recommended** — it evades AI detection while maintaining the same speed and behavior as V1.
+**V2 is recommended** — it evades Advanced AI detection.
 
 ---
 
